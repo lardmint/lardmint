@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lardmint
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning about account abstraction
+- 💞️ I’m looking to collaborate on defi related projects
+- 📫 How to reach me => lardmint@gmail.com
